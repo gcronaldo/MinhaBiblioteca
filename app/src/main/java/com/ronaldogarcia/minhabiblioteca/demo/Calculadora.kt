@@ -1,4 +1,4 @@
-package com.ronaldogarcia.minhabiblioteca
+package com.ronaldogarcia.minhabiblioteca.demo
 
 class Calculadora {
 
